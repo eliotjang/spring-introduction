@@ -39,3 +39,9 @@
   - 스프링 JdbcTemplate
   - JPA
   - 스프링 데이터 JPA
+
+### 6일차
+
+- AOP
+  - AOP가 필요한 상황
+  - AOP 적용
